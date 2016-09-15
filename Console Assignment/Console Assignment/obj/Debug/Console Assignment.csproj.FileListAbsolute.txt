@@ -1,0 +1,12 @@
+c:\users\shayla\documents\visual studio 2013\Projects\Console Assignment\Console Assignment\bin\Debug\Console Assignment.exe.config
+c:\users\shayla\documents\visual studio 2013\Projects\Console Assignment\Console Assignment\obj\Debug\Console Assignment.csprojResolveAssemblyReference.cache
+c:\users\shayla\documents\visual studio 2013\Projects\Console Assignment\Console Assignment\bin\Debug\Console Assignment.exe
+c:\users\shayla\documents\visual studio 2013\Projects\Console Assignment\Console Assignment\bin\Debug\Console Assignment.pdb
+c:\users\shayla\documents\visual studio 2013\Projects\Console Assignment\Console Assignment\obj\Debug\Console Assignment.exe
+c:\users\shayla\documents\visual studio 2013\Projects\Console Assignment\Console Assignment\obj\Debug\Console Assignment.pdb
+C:\Users\Shayla\Documents\Visual Studio 2013\Projects\IS403\Console Assignment\Console Assignment\bin\Debug\Console Assignment.exe.config
+C:\Users\Shayla\Documents\Visual Studio 2013\Projects\IS403\Console Assignment\Console Assignment\obj\Debug\Console Assignment.exe
+C:\Users\Shayla\Documents\Visual Studio 2013\Projects\IS403\Console Assignment\Console Assignment\obj\Debug\Console Assignment.pdb
+C:\Users\Shayla\Documents\Visual Studio 2013\Projects\IS403\Console Assignment\Console Assignment\bin\Debug\Console Assignment.exe
+C:\Users\Shayla\Documents\Visual Studio 2013\Projects\IS403\Console Assignment\Console Assignment\bin\Debug\Console Assignment.pdb
+C:\Users\Shayla\Documents\Visual Studio 2013\Projects\IS403\Console Assignment\Console Assignment\obj\Debug\Console Assignment.csprojResolveAssemblyReference.cache
